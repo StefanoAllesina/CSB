@@ -1,4 +1,4 @@
-# Introduction to Scientific Computing for Biologists
+# Computing Skills for Biologists
 # - a Toolbox -
 *by Stefano Allesina &amp; Madlen Wilmes*
 

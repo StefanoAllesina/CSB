@@ -1,0 +1,29 @@
+# History files
+.Rhistory
+.Rapp.history
+.RData
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+*~
+*.bbl
+*.blg
+*.log
+*.aux
+*.toc
+*.synctex.gz
+.DS_Store
+*.flat
+*.gdx
+example.out
+IntroSciComp.pdf
+
+
